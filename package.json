@@ -1,0 +1,28 @@
+{
+  "name": "tj-symbols",
+  "version": "1.0.0",
+  "description": "[English](README.en.md) | **中文**",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hancic128/tj-symbols.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/hancic128/tj-symbols/issues"
+  },
+  "homepage": "https://github.com/hancic128/tj-symbols#readme",
+  "devDependencies": {
+    "husky": "^9.1.7"
+  }
+}
